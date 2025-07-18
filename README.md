@@ -57,4 +57,4 @@ parking.exe
 - If you encounter any issues with file creation, run the terminal as administrator.
 
 ## License
-This project is for educational purposes and is provided as-is. 
+This project is for educational purposes and is provided as-is.
